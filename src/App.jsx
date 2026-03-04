@@ -15,7 +15,7 @@ function App() {
       <NavBar />
       <Hero />
       <ShowcaseSection />
-      <LogoSection />
+      {/* <LogoSection /> */}
       <FeatureCards />
       <ExperienceSection />
       <TechStack />

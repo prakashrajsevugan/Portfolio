@@ -61,14 +61,14 @@ const ShowcaseSection = () => {
                             <div className="image-wrapper bg-[#ffefdb]">
                                 <img src="/images/project2.png" alt="Library management" />
                             </div>
-                            <h2>Library Management System</h2>
+                            <h2>Book Store Management</h2>
                         </div>
 
                         <div className="project" ref={project3Ref}>
                             <div className="image-wrapper bg-[#ffe7eb]">
                                 <img src="/images/project3.png" alt="YC Directory" />
                             </div>
-                            <h2>YC Directory - A Startup Showcase App</h2>
+                            <h2>3D Island Rendered Site</h2>
                         </div>
                     </div>
                 </div>
